@@ -8,3 +8,4 @@ this is coming from new-branch-2
 =======
 this is from the new-branch-1
 >>>>>>> origin/master
+here is something from the master branch
