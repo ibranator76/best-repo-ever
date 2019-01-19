@@ -1,2 +1,4 @@
 # best-rep-ever
-practicing git on trailhead
+this read me is for myfeaturesbranch
+it is somewhat part of playing with github.
+so here it is.
